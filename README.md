@@ -4,7 +4,7 @@ A dark, modern personal portfolio website for **Muzaib**, a web developer buildi
 
 ## Live Site
 
-Deployed on Vercel — link will be added after the first deployment.
+Deployed on Vercel: https://muzaib-portfolio.vercel.app/
 
 ## GitHub
 
